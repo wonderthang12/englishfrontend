@@ -4,7 +4,8 @@
 }
 
 #link_button{
-    margin-left: 450px;
+    /* margin-left: 450px; */
+    float: right;
 }
 
 .search-bar{
